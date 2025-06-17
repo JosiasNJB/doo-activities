@@ -1,0 +1,15 @@
+/home/josiasn/Documents/Projects/College/doo-activities/BehaviouralPatterns/Visitor/bin/Debug/net8.0/Visitor
+/home/josiasn/Documents/Projects/College/doo-activities/BehaviouralPatterns/Visitor/bin/Debug/net8.0/Visitor.deps.json
+/home/josiasn/Documents/Projects/College/doo-activities/BehaviouralPatterns/Visitor/bin/Debug/net8.0/Visitor.runtimeconfig.json
+/home/josiasn/Documents/Projects/College/doo-activities/BehaviouralPatterns/Visitor/bin/Debug/net8.0/Visitor.dll
+/home/josiasn/Documents/Projects/College/doo-activities/BehaviouralPatterns/Visitor/bin/Debug/net8.0/Visitor.pdb
+/home/josiasn/Documents/Projects/College/doo-activities/BehaviouralPatterns/Visitor/obj/Debug/net8.0/Visitor.GeneratedMSBuildEditorConfig.editorconfig
+/home/josiasn/Documents/Projects/College/doo-activities/BehaviouralPatterns/Visitor/obj/Debug/net8.0/Visitor.AssemblyInfoInputs.cache
+/home/josiasn/Documents/Projects/College/doo-activities/BehaviouralPatterns/Visitor/obj/Debug/net8.0/Visitor.AssemblyInfo.cs
+/home/josiasn/Documents/Projects/College/doo-activities/BehaviouralPatterns/Visitor/obj/Debug/net8.0/Visitor.csproj.CoreCompileInputs.cache
+/home/josiasn/Documents/Projects/College/doo-activities/BehaviouralPatterns/Visitor/obj/Debug/net8.0/Visitor.sourcelink.json
+/home/josiasn/Documents/Projects/College/doo-activities/BehaviouralPatterns/Visitor/obj/Debug/net8.0/Visitor.dll
+/home/josiasn/Documents/Projects/College/doo-activities/BehaviouralPatterns/Visitor/obj/Debug/net8.0/refint/Visitor.dll
+/home/josiasn/Documents/Projects/College/doo-activities/BehaviouralPatterns/Visitor/obj/Debug/net8.0/Visitor.pdb
+/home/josiasn/Documents/Projects/College/doo-activities/BehaviouralPatterns/Visitor/obj/Debug/net8.0/Visitor.genruntimeconfig.cache
+/home/josiasn/Documents/Projects/College/doo-activities/BehaviouralPatterns/Visitor/obj/Debug/net8.0/ref/Visitor.dll

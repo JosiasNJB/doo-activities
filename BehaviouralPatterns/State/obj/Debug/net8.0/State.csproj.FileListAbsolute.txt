@@ -1,0 +1,15 @@
+/home/josiasn/Documents/Projects/College/doo-activities/BehaviouralPatterns/State/bin/Debug/net8.0/State
+/home/josiasn/Documents/Projects/College/doo-activities/BehaviouralPatterns/State/bin/Debug/net8.0/State.deps.json
+/home/josiasn/Documents/Projects/College/doo-activities/BehaviouralPatterns/State/bin/Debug/net8.0/State.runtimeconfig.json
+/home/josiasn/Documents/Projects/College/doo-activities/BehaviouralPatterns/State/bin/Debug/net8.0/State.dll
+/home/josiasn/Documents/Projects/College/doo-activities/BehaviouralPatterns/State/bin/Debug/net8.0/State.pdb
+/home/josiasn/Documents/Projects/College/doo-activities/BehaviouralPatterns/State/obj/Debug/net8.0/State.GeneratedMSBuildEditorConfig.editorconfig
+/home/josiasn/Documents/Projects/College/doo-activities/BehaviouralPatterns/State/obj/Debug/net8.0/State.AssemblyInfoInputs.cache
+/home/josiasn/Documents/Projects/College/doo-activities/BehaviouralPatterns/State/obj/Debug/net8.0/State.AssemblyInfo.cs
+/home/josiasn/Documents/Projects/College/doo-activities/BehaviouralPatterns/State/obj/Debug/net8.0/State.csproj.CoreCompileInputs.cache
+/home/josiasn/Documents/Projects/College/doo-activities/BehaviouralPatterns/State/obj/Debug/net8.0/State.sourcelink.json
+/home/josiasn/Documents/Projects/College/doo-activities/BehaviouralPatterns/State/obj/Debug/net8.0/State.dll
+/home/josiasn/Documents/Projects/College/doo-activities/BehaviouralPatterns/State/obj/Debug/net8.0/refint/State.dll
+/home/josiasn/Documents/Projects/College/doo-activities/BehaviouralPatterns/State/obj/Debug/net8.0/State.pdb
+/home/josiasn/Documents/Projects/College/doo-activities/BehaviouralPatterns/State/obj/Debug/net8.0/State.genruntimeconfig.cache
+/home/josiasn/Documents/Projects/College/doo-activities/BehaviouralPatterns/State/obj/Debug/net8.0/ref/State.dll

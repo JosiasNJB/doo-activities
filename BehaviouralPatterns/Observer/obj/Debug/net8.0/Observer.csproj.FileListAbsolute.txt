@@ -1,0 +1,15 @@
+/home/josiasn/Documents/Projects/College/doo-activities/BehaviouralPatterns/Observer/bin/Debug/net8.0/Observer
+/home/josiasn/Documents/Projects/College/doo-activities/BehaviouralPatterns/Observer/bin/Debug/net8.0/Observer.deps.json
+/home/josiasn/Documents/Projects/College/doo-activities/BehaviouralPatterns/Observer/bin/Debug/net8.0/Observer.runtimeconfig.json
+/home/josiasn/Documents/Projects/College/doo-activities/BehaviouralPatterns/Observer/bin/Debug/net8.0/Observer.dll
+/home/josiasn/Documents/Projects/College/doo-activities/BehaviouralPatterns/Observer/bin/Debug/net8.0/Observer.pdb
+/home/josiasn/Documents/Projects/College/doo-activities/BehaviouralPatterns/Observer/obj/Debug/net8.0/Observer.GeneratedMSBuildEditorConfig.editorconfig
+/home/josiasn/Documents/Projects/College/doo-activities/BehaviouralPatterns/Observer/obj/Debug/net8.0/Observer.AssemblyInfoInputs.cache
+/home/josiasn/Documents/Projects/College/doo-activities/BehaviouralPatterns/Observer/obj/Debug/net8.0/Observer.AssemblyInfo.cs
+/home/josiasn/Documents/Projects/College/doo-activities/BehaviouralPatterns/Observer/obj/Debug/net8.0/Observer.csproj.CoreCompileInputs.cache
+/home/josiasn/Documents/Projects/College/doo-activities/BehaviouralPatterns/Observer/obj/Debug/net8.0/Observer.sourcelink.json
+/home/josiasn/Documents/Projects/College/doo-activities/BehaviouralPatterns/Observer/obj/Debug/net8.0/Observer.dll
+/home/josiasn/Documents/Projects/College/doo-activities/BehaviouralPatterns/Observer/obj/Debug/net8.0/refint/Observer.dll
+/home/josiasn/Documents/Projects/College/doo-activities/BehaviouralPatterns/Observer/obj/Debug/net8.0/Observer.pdb
+/home/josiasn/Documents/Projects/College/doo-activities/BehaviouralPatterns/Observer/obj/Debug/net8.0/Observer.genruntimeconfig.cache
+/home/josiasn/Documents/Projects/College/doo-activities/BehaviouralPatterns/Observer/obj/Debug/net8.0/ref/Observer.dll

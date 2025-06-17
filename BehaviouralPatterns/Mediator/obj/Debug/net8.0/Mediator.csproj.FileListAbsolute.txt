@@ -1,0 +1,15 @@
+/home/josiasn/Documents/Projects/College/doo-activities/BehaviouralPatterns/Mediator/bin/Debug/net8.0/Mediator
+/home/josiasn/Documents/Projects/College/doo-activities/BehaviouralPatterns/Mediator/bin/Debug/net8.0/Mediator.deps.json
+/home/josiasn/Documents/Projects/College/doo-activities/BehaviouralPatterns/Mediator/bin/Debug/net8.0/Mediator.runtimeconfig.json
+/home/josiasn/Documents/Projects/College/doo-activities/BehaviouralPatterns/Mediator/bin/Debug/net8.0/Mediator.dll
+/home/josiasn/Documents/Projects/College/doo-activities/BehaviouralPatterns/Mediator/bin/Debug/net8.0/Mediator.pdb
+/home/josiasn/Documents/Projects/College/doo-activities/BehaviouralPatterns/Mediator/obj/Debug/net8.0/Mediator.GeneratedMSBuildEditorConfig.editorconfig
+/home/josiasn/Documents/Projects/College/doo-activities/BehaviouralPatterns/Mediator/obj/Debug/net8.0/Mediator.AssemblyInfoInputs.cache
+/home/josiasn/Documents/Projects/College/doo-activities/BehaviouralPatterns/Mediator/obj/Debug/net8.0/Mediator.AssemblyInfo.cs
+/home/josiasn/Documents/Projects/College/doo-activities/BehaviouralPatterns/Mediator/obj/Debug/net8.0/Mediator.csproj.CoreCompileInputs.cache
+/home/josiasn/Documents/Projects/College/doo-activities/BehaviouralPatterns/Mediator/obj/Debug/net8.0/Mediator.sourcelink.json
+/home/josiasn/Documents/Projects/College/doo-activities/BehaviouralPatterns/Mediator/obj/Debug/net8.0/Mediator.dll
+/home/josiasn/Documents/Projects/College/doo-activities/BehaviouralPatterns/Mediator/obj/Debug/net8.0/refint/Mediator.dll
+/home/josiasn/Documents/Projects/College/doo-activities/BehaviouralPatterns/Mediator/obj/Debug/net8.0/Mediator.pdb
+/home/josiasn/Documents/Projects/College/doo-activities/BehaviouralPatterns/Mediator/obj/Debug/net8.0/Mediator.genruntimeconfig.cache
+/home/josiasn/Documents/Projects/College/doo-activities/BehaviouralPatterns/Mediator/obj/Debug/net8.0/ref/Mediator.dll

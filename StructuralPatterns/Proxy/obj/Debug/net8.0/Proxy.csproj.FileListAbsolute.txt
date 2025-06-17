@@ -1,0 +1,15 @@
+/home/josiasn/Documents/Projects/College/doo-activities/StructuralPatterns/Proxy/bin/Debug/net8.0/Proxy
+/home/josiasn/Documents/Projects/College/doo-activities/StructuralPatterns/Proxy/bin/Debug/net8.0/Proxy.deps.json
+/home/josiasn/Documents/Projects/College/doo-activities/StructuralPatterns/Proxy/bin/Debug/net8.0/Proxy.runtimeconfig.json
+/home/josiasn/Documents/Projects/College/doo-activities/StructuralPatterns/Proxy/bin/Debug/net8.0/Proxy.dll
+/home/josiasn/Documents/Projects/College/doo-activities/StructuralPatterns/Proxy/bin/Debug/net8.0/Proxy.pdb
+/home/josiasn/Documents/Projects/College/doo-activities/StructuralPatterns/Proxy/obj/Debug/net8.0/Proxy.GeneratedMSBuildEditorConfig.editorconfig
+/home/josiasn/Documents/Projects/College/doo-activities/StructuralPatterns/Proxy/obj/Debug/net8.0/Proxy.AssemblyInfoInputs.cache
+/home/josiasn/Documents/Projects/College/doo-activities/StructuralPatterns/Proxy/obj/Debug/net8.0/Proxy.AssemblyInfo.cs
+/home/josiasn/Documents/Projects/College/doo-activities/StructuralPatterns/Proxy/obj/Debug/net8.0/Proxy.csproj.CoreCompileInputs.cache
+/home/josiasn/Documents/Projects/College/doo-activities/StructuralPatterns/Proxy/obj/Debug/net8.0/Proxy.sourcelink.json
+/home/josiasn/Documents/Projects/College/doo-activities/StructuralPatterns/Proxy/obj/Debug/net8.0/Proxy.dll
+/home/josiasn/Documents/Projects/College/doo-activities/StructuralPatterns/Proxy/obj/Debug/net8.0/refint/Proxy.dll
+/home/josiasn/Documents/Projects/College/doo-activities/StructuralPatterns/Proxy/obj/Debug/net8.0/Proxy.pdb
+/home/josiasn/Documents/Projects/College/doo-activities/StructuralPatterns/Proxy/obj/Debug/net8.0/Proxy.genruntimeconfig.cache
+/home/josiasn/Documents/Projects/College/doo-activities/StructuralPatterns/Proxy/obj/Debug/net8.0/ref/Proxy.dll

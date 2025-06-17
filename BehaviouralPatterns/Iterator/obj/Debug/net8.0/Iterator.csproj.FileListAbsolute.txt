@@ -1,0 +1,15 @@
+/home/josiasn/Documents/Projects/College/doo-activities/BehaviouralPatterns/Iterator/bin/Debug/net8.0/Iterator
+/home/josiasn/Documents/Projects/College/doo-activities/BehaviouralPatterns/Iterator/bin/Debug/net8.0/Iterator.deps.json
+/home/josiasn/Documents/Projects/College/doo-activities/BehaviouralPatterns/Iterator/bin/Debug/net8.0/Iterator.runtimeconfig.json
+/home/josiasn/Documents/Projects/College/doo-activities/BehaviouralPatterns/Iterator/bin/Debug/net8.0/Iterator.dll
+/home/josiasn/Documents/Projects/College/doo-activities/BehaviouralPatterns/Iterator/bin/Debug/net8.0/Iterator.pdb
+/home/josiasn/Documents/Projects/College/doo-activities/BehaviouralPatterns/Iterator/obj/Debug/net8.0/Iterator.GeneratedMSBuildEditorConfig.editorconfig
+/home/josiasn/Documents/Projects/College/doo-activities/BehaviouralPatterns/Iterator/obj/Debug/net8.0/Iterator.AssemblyInfoInputs.cache
+/home/josiasn/Documents/Projects/College/doo-activities/BehaviouralPatterns/Iterator/obj/Debug/net8.0/Iterator.AssemblyInfo.cs
+/home/josiasn/Documents/Projects/College/doo-activities/BehaviouralPatterns/Iterator/obj/Debug/net8.0/Iterator.csproj.CoreCompileInputs.cache
+/home/josiasn/Documents/Projects/College/doo-activities/BehaviouralPatterns/Iterator/obj/Debug/net8.0/Iterator.sourcelink.json
+/home/josiasn/Documents/Projects/College/doo-activities/BehaviouralPatterns/Iterator/obj/Debug/net8.0/Iterator.dll
+/home/josiasn/Documents/Projects/College/doo-activities/BehaviouralPatterns/Iterator/obj/Debug/net8.0/refint/Iterator.dll
+/home/josiasn/Documents/Projects/College/doo-activities/BehaviouralPatterns/Iterator/obj/Debug/net8.0/Iterator.pdb
+/home/josiasn/Documents/Projects/College/doo-activities/BehaviouralPatterns/Iterator/obj/Debug/net8.0/Iterator.genruntimeconfig.cache
+/home/josiasn/Documents/Projects/College/doo-activities/BehaviouralPatterns/Iterator/obj/Debug/net8.0/ref/Iterator.dll

@@ -1,0 +1,15 @@
+/home/josiasn/Documents/Projects/College/doo-activities/StructuralPatterns/Flyweight/obj/Debug/net8.0/Flyweight.GeneratedMSBuildEditorConfig.editorconfig
+/home/josiasn/Documents/Projects/College/doo-activities/StructuralPatterns/Flyweight/obj/Debug/net8.0/Flyweight.AssemblyInfoInputs.cache
+/home/josiasn/Documents/Projects/College/doo-activities/StructuralPatterns/Flyweight/obj/Debug/net8.0/Flyweight.AssemblyInfo.cs
+/home/josiasn/Documents/Projects/College/doo-activities/StructuralPatterns/Flyweight/obj/Debug/net8.0/Flyweight.csproj.CoreCompileInputs.cache
+/home/josiasn/Documents/Projects/College/doo-activities/StructuralPatterns/Flyweight/obj/Debug/net8.0/Flyweight.sourcelink.json
+/home/josiasn/Documents/Projects/College/doo-activities/StructuralPatterns/Flyweight/bin/Debug/net8.0/Flyweight
+/home/josiasn/Documents/Projects/College/doo-activities/StructuralPatterns/Flyweight/bin/Debug/net8.0/Flyweight.deps.json
+/home/josiasn/Documents/Projects/College/doo-activities/StructuralPatterns/Flyweight/bin/Debug/net8.0/Flyweight.runtimeconfig.json
+/home/josiasn/Documents/Projects/College/doo-activities/StructuralPatterns/Flyweight/bin/Debug/net8.0/Flyweight.dll
+/home/josiasn/Documents/Projects/College/doo-activities/StructuralPatterns/Flyweight/bin/Debug/net8.0/Flyweight.pdb
+/home/josiasn/Documents/Projects/College/doo-activities/StructuralPatterns/Flyweight/obj/Debug/net8.0/Flyweight.dll
+/home/josiasn/Documents/Projects/College/doo-activities/StructuralPatterns/Flyweight/obj/Debug/net8.0/refint/Flyweight.dll
+/home/josiasn/Documents/Projects/College/doo-activities/StructuralPatterns/Flyweight/obj/Debug/net8.0/Flyweight.pdb
+/home/josiasn/Documents/Projects/College/doo-activities/StructuralPatterns/Flyweight/obj/Debug/net8.0/Flyweight.genruntimeconfig.cache
+/home/josiasn/Documents/Projects/College/doo-activities/StructuralPatterns/Flyweight/obj/Debug/net8.0/ref/Flyweight.dll

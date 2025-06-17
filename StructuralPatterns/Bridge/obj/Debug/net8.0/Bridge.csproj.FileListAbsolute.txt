@@ -1,0 +1,15 @@
+/home/josiasn/Documents/Projects/College/doo-activities/StructuralPatterns/Bridge/bin/Debug/net8.0/Bridge
+/home/josiasn/Documents/Projects/College/doo-activities/StructuralPatterns/Bridge/bin/Debug/net8.0/Bridge.deps.json
+/home/josiasn/Documents/Projects/College/doo-activities/StructuralPatterns/Bridge/bin/Debug/net8.0/Bridge.runtimeconfig.json
+/home/josiasn/Documents/Projects/College/doo-activities/StructuralPatterns/Bridge/bin/Debug/net8.0/Bridge.dll
+/home/josiasn/Documents/Projects/College/doo-activities/StructuralPatterns/Bridge/bin/Debug/net8.0/Bridge.pdb
+/home/josiasn/Documents/Projects/College/doo-activities/StructuralPatterns/Bridge/obj/Debug/net8.0/Bridge.GeneratedMSBuildEditorConfig.editorconfig
+/home/josiasn/Documents/Projects/College/doo-activities/StructuralPatterns/Bridge/obj/Debug/net8.0/Bridge.AssemblyInfoInputs.cache
+/home/josiasn/Documents/Projects/College/doo-activities/StructuralPatterns/Bridge/obj/Debug/net8.0/Bridge.AssemblyInfo.cs
+/home/josiasn/Documents/Projects/College/doo-activities/StructuralPatterns/Bridge/obj/Debug/net8.0/Bridge.csproj.CoreCompileInputs.cache
+/home/josiasn/Documents/Projects/College/doo-activities/StructuralPatterns/Bridge/obj/Debug/net8.0/Bridge.sourcelink.json
+/home/josiasn/Documents/Projects/College/doo-activities/StructuralPatterns/Bridge/obj/Debug/net8.0/Bridge.dll
+/home/josiasn/Documents/Projects/College/doo-activities/StructuralPatterns/Bridge/obj/Debug/net8.0/refint/Bridge.dll
+/home/josiasn/Documents/Projects/College/doo-activities/StructuralPatterns/Bridge/obj/Debug/net8.0/Bridge.pdb
+/home/josiasn/Documents/Projects/College/doo-activities/StructuralPatterns/Bridge/obj/Debug/net8.0/Bridge.genruntimeconfig.cache
+/home/josiasn/Documents/Projects/College/doo-activities/StructuralPatterns/Bridge/obj/Debug/net8.0/ref/Bridge.dll

@@ -1,0 +1,15 @@
+/home/josiasn/Documents/Projects/College/doo-activities/BehaviouralPatterns/ChainOfResponsability/bin/Debug/net8.0/ChainOfResponsability
+/home/josiasn/Documents/Projects/College/doo-activities/BehaviouralPatterns/ChainOfResponsability/bin/Debug/net8.0/ChainOfResponsability.deps.json
+/home/josiasn/Documents/Projects/College/doo-activities/BehaviouralPatterns/ChainOfResponsability/bin/Debug/net8.0/ChainOfResponsability.runtimeconfig.json
+/home/josiasn/Documents/Projects/College/doo-activities/BehaviouralPatterns/ChainOfResponsability/bin/Debug/net8.0/ChainOfResponsability.dll
+/home/josiasn/Documents/Projects/College/doo-activities/BehaviouralPatterns/ChainOfResponsability/bin/Debug/net8.0/ChainOfResponsability.pdb
+/home/josiasn/Documents/Projects/College/doo-activities/BehaviouralPatterns/ChainOfResponsability/obj/Debug/net8.0/ChainOfResponsability.GeneratedMSBuildEditorConfig.editorconfig
+/home/josiasn/Documents/Projects/College/doo-activities/BehaviouralPatterns/ChainOfResponsability/obj/Debug/net8.0/ChainOfResponsability.AssemblyInfoInputs.cache
+/home/josiasn/Documents/Projects/College/doo-activities/BehaviouralPatterns/ChainOfResponsability/obj/Debug/net8.0/ChainOfResponsability.AssemblyInfo.cs
+/home/josiasn/Documents/Projects/College/doo-activities/BehaviouralPatterns/ChainOfResponsability/obj/Debug/net8.0/ChainOfResponsability.csproj.CoreCompileInputs.cache
+/home/josiasn/Documents/Projects/College/doo-activities/BehaviouralPatterns/ChainOfResponsability/obj/Debug/net8.0/ChainOfResponsability.sourcelink.json
+/home/josiasn/Documents/Projects/College/doo-activities/BehaviouralPatterns/ChainOfResponsability/obj/Debug/net8.0/ChainOfResponsability.dll
+/home/josiasn/Documents/Projects/College/doo-activities/BehaviouralPatterns/ChainOfResponsability/obj/Debug/net8.0/refint/ChainOfResponsability.dll
+/home/josiasn/Documents/Projects/College/doo-activities/BehaviouralPatterns/ChainOfResponsability/obj/Debug/net8.0/ChainOfResponsability.pdb
+/home/josiasn/Documents/Projects/College/doo-activities/BehaviouralPatterns/ChainOfResponsability/obj/Debug/net8.0/ChainOfResponsability.genruntimeconfig.cache
+/home/josiasn/Documents/Projects/College/doo-activities/BehaviouralPatterns/ChainOfResponsability/obj/Debug/net8.0/ref/ChainOfResponsability.dll

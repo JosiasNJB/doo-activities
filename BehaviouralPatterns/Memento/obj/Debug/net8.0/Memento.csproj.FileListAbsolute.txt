@@ -1,0 +1,15 @@
+/home/josiasn/Documents/Projects/College/doo-activities/BehaviouralPatterns/Memento/bin/Debug/net8.0/Memento
+/home/josiasn/Documents/Projects/College/doo-activities/BehaviouralPatterns/Memento/bin/Debug/net8.0/Memento.deps.json
+/home/josiasn/Documents/Projects/College/doo-activities/BehaviouralPatterns/Memento/bin/Debug/net8.0/Memento.runtimeconfig.json
+/home/josiasn/Documents/Projects/College/doo-activities/BehaviouralPatterns/Memento/bin/Debug/net8.0/Memento.dll
+/home/josiasn/Documents/Projects/College/doo-activities/BehaviouralPatterns/Memento/bin/Debug/net8.0/Memento.pdb
+/home/josiasn/Documents/Projects/College/doo-activities/BehaviouralPatterns/Memento/obj/Debug/net8.0/Memento.GeneratedMSBuildEditorConfig.editorconfig
+/home/josiasn/Documents/Projects/College/doo-activities/BehaviouralPatterns/Memento/obj/Debug/net8.0/Memento.AssemblyInfoInputs.cache
+/home/josiasn/Documents/Projects/College/doo-activities/BehaviouralPatterns/Memento/obj/Debug/net8.0/Memento.AssemblyInfo.cs
+/home/josiasn/Documents/Projects/College/doo-activities/BehaviouralPatterns/Memento/obj/Debug/net8.0/Memento.csproj.CoreCompileInputs.cache
+/home/josiasn/Documents/Projects/College/doo-activities/BehaviouralPatterns/Memento/obj/Debug/net8.0/Memento.sourcelink.json
+/home/josiasn/Documents/Projects/College/doo-activities/BehaviouralPatterns/Memento/obj/Debug/net8.0/Memento.dll
+/home/josiasn/Documents/Projects/College/doo-activities/BehaviouralPatterns/Memento/obj/Debug/net8.0/refint/Memento.dll
+/home/josiasn/Documents/Projects/College/doo-activities/BehaviouralPatterns/Memento/obj/Debug/net8.0/Memento.pdb
+/home/josiasn/Documents/Projects/College/doo-activities/BehaviouralPatterns/Memento/obj/Debug/net8.0/Memento.genruntimeconfig.cache
+/home/josiasn/Documents/Projects/College/doo-activities/BehaviouralPatterns/Memento/obj/Debug/net8.0/ref/Memento.dll

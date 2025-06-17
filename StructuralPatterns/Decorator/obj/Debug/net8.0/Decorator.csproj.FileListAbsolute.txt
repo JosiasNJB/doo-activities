@@ -1,0 +1,15 @@
+/home/josiasn/Documents/Projects/College/doo-activities/StructuralPatterns/Decorator/bin/Debug/net8.0/Decorator
+/home/josiasn/Documents/Projects/College/doo-activities/StructuralPatterns/Decorator/bin/Debug/net8.0/Decorator.deps.json
+/home/josiasn/Documents/Projects/College/doo-activities/StructuralPatterns/Decorator/bin/Debug/net8.0/Decorator.runtimeconfig.json
+/home/josiasn/Documents/Projects/College/doo-activities/StructuralPatterns/Decorator/bin/Debug/net8.0/Decorator.dll
+/home/josiasn/Documents/Projects/College/doo-activities/StructuralPatterns/Decorator/bin/Debug/net8.0/Decorator.pdb
+/home/josiasn/Documents/Projects/College/doo-activities/StructuralPatterns/Decorator/obj/Debug/net8.0/Decorator.GeneratedMSBuildEditorConfig.editorconfig
+/home/josiasn/Documents/Projects/College/doo-activities/StructuralPatterns/Decorator/obj/Debug/net8.0/Decorator.AssemblyInfoInputs.cache
+/home/josiasn/Documents/Projects/College/doo-activities/StructuralPatterns/Decorator/obj/Debug/net8.0/Decorator.AssemblyInfo.cs
+/home/josiasn/Documents/Projects/College/doo-activities/StructuralPatterns/Decorator/obj/Debug/net8.0/Decorator.csproj.CoreCompileInputs.cache
+/home/josiasn/Documents/Projects/College/doo-activities/StructuralPatterns/Decorator/obj/Debug/net8.0/Decorator.sourcelink.json
+/home/josiasn/Documents/Projects/College/doo-activities/StructuralPatterns/Decorator/obj/Debug/net8.0/Decorator.dll
+/home/josiasn/Documents/Projects/College/doo-activities/StructuralPatterns/Decorator/obj/Debug/net8.0/refint/Decorator.dll
+/home/josiasn/Documents/Projects/College/doo-activities/StructuralPatterns/Decorator/obj/Debug/net8.0/Decorator.pdb
+/home/josiasn/Documents/Projects/College/doo-activities/StructuralPatterns/Decorator/obj/Debug/net8.0/Decorator.genruntimeconfig.cache
+/home/josiasn/Documents/Projects/College/doo-activities/StructuralPatterns/Decorator/obj/Debug/net8.0/ref/Decorator.dll
